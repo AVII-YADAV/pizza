@@ -243,4 +243,4 @@ If you have any questions or need help, please open an issue on GitHub.
 
 ---
 
-**Made with ❤️ for pizza lovers everywhere! 🍕** 
+**Made with ❤️ for pizza lovers everywhere! 🍕**
